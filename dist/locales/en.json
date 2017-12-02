@@ -4582,7 +4582,7 @@
                 },
                 "man_made/monitoring_station": {
                     "name": "Monitoring Station",
-                    "terms": "weather,earthquake,sismology,air,gps"
+                    "terms": "weather,earthquake,seismology,air,gps"
                 },
                 "man_made/observation": {
                     "name": "Observation Tower",
@@ -4784,6 +4784,10 @@
                     "name": "Office",
                     "terms": ""
                 },
+                "office/administrative": {
+                    "name": "Administrative Office",
+                    "terms": ""
+                },
                 "office/physician": {
                     "name": "Physician",
                     "terms": ""
@@ -4794,10 +4798,6 @@
                 },
                 "office/accountant": {
                     "name": "Accountant Office",
-                    "terms": ""
-                },
-                "office/administrative": {
-                    "name": "Administrative Office",
                     "terms": ""
                 },
                 "office/adoption_agency": {
